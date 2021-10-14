@@ -15,6 +15,14 @@ body {
     margin: 0;
 }
 
+.menu-principal h2 {
+    background: #333;
+    color: #fff;
+    border-bottom: solid 2px #4faddb;
+
+}
+
+
 .menu-principal nav {
     display: inline-block;
     background-color: #fff;
