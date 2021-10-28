@@ -8,12 +8,12 @@
 }
 
 [wm-flappy]{
+    background-image: url('../imgs/cidade.png');
     position: relative;
     border: 0px solid dodgerblue;
     height: 700px; 
-    width: 1200px;
+    width: 1244px;
     margin: 15px; 
-    background-color: dodgerblue;
     overflow: hidden; /*qualquer elemento que fique fora da div vai ficar escondido*/
 }
 
